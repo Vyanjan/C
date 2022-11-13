@@ -47,3 +47,12 @@ Debugging is the process of finding and fixing program errors. Making mistakes i
 When you create a program for yourself or for someone else, that program could see extensive use. If it does, you'll probably find reasons to make changes in it. Perhaps there is a minor bug that shows up only when someone enters a name beginning with Zz, or you might think of a better way to do something in the program. You could add a clever new feature. You might adapt the program so that it runs on a different computer system. All these tasks are greatly simplified if you document the program clearly and if you follow sound design practices. 
 
 - Garbage Collector in Java
+
+
+
+- Editing
+- Compiling
+- Linking
+- Executing
+- Debugging
+
