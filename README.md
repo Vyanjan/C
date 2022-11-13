@@ -59,3 +59,5 @@ When you create a program for yourself or for someone else, that program could s
 
 ifdef, ifndef, else, endif
 
+printf is mostly used for debugging
+
